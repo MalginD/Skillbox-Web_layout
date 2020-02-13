@@ -1,0 +1,24 @@
+теги структуры тела (BODY) HTML5-документа, которые не рассматривались в уроке:
+
+article
+aside
+audio
+bdi
+canvas
+datalist
+details
+figure
+hgroup
+mark
+menu
+meter
+output
+progress
+rp
+rt
+ruby
+section
+source
+summary
+time
+video
