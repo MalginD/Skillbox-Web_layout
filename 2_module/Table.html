@@ -1,11 +1,21 @@
 <!DOCTYPE html>
-<html>
+<html lang="ru">
 <head>
 	<title>Таблица</title>
+	<style>
+		table {
+			border: 1px solid black;
+			border-collapse: collapse;
+		}
+		th, td {
+			border: 1px solid black;
+			padding: 5px;
+		}
+	</style>
 </head>
 <body>
-	<table border="1" cellspacing="0" cellpadding="5">
-		<p><big><big><b>Статистика компании за неделю</b></big></big></p>
+	<h2>Статистика компании за неделю</h2>
+	<table>
 		<tr>
 			<th rowspan="2">Дата</th>
 			<th colspan="2">Доход</th>
